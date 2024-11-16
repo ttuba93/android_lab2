@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab2app</string>
+    <string name="kingdom">Kingdom</string>
+    <string name="family">Family</string>
+    <string name="locations">Locations</string>
+    <string name="diet">Diet</string>
+    <string name="animal_name">Animal Name</string>
+    <string name="animal_location">Animal Location</string>
+    <string name="lifespan">Lifespan</string>
+</resources>
