@@ -6,7 +6,7 @@ import retrofit2.http.GET
 import retrofit2.http.Query
 
 interface ApiService {
-    @GET("animals")
+    @GET("/v1/animals")
     fun getAnimals(
         @Query("name") name: String,
         @Query("apiKey") apiKey: String

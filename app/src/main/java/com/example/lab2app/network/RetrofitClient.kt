@@ -6,7 +6,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 object RetrofitClient {
 //    private const val BASE_URL = "https://api.api-ninjas.com/v1"
 
-    private const val BASE_URL = "https://api.api-ninjas.com/v1"
+    private const val BASE_URL = "https://api.api-ninjas.com"
 
 
 
